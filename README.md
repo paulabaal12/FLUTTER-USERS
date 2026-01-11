@@ -19,7 +19,20 @@ Technical test: single-screen Flutter app that fetches users from https://jsonpl
 ### What was most challenging
 - Getting an Android emulator running: existing AVDs were outdated; updating system images, cmdline-tools, and licenses took extra time before the build could install and launch on the emulator.
 
+### Links
+- GitHub:  https://github.com/paulabaal12/FLUTTER-USERS
 
+
+### Screenshots
+
+#### Users List View
+![captura pantalla usuarios](image.png)
+
+#### Loading State
+![Captura Cargando Usuarios](image-2.png)
+
+#### Error State
+![Captura no se pudo cargar la información](image-1.png)
 
 Español
 -------
@@ -38,3 +51,16 @@ Prueba técnica: app Flutter de una sola pantalla que consume https://jsonplaceh
 ### Lo más complejo
 - Probar en un emulador Android: los AVD existentes estaban desactualizados; hubo que actualizar imágenes de sistema, cmdline-tools y aceptar licencias antes de que la app instalara y ejecutara en el emulador.
 
+### Enlaces
+- GitHub: https://github.com/paulabaal12/FLUTTER-USERS
+
+### Capturas de pantalla
+
+#### Vista de Lista de Usuarios
+![captura pantalla usuarios](image.png)
+
+#### Estado de Carga
+![Captura Cargando Usuarios](image-2.png)
+
+#### Estado de Error
+![Captura no se pudo cargar la información](image-1.png)
